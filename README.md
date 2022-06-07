@@ -1,4 +1,4 @@
-# Hello, everyone! <img src="https://github.com/MurielPinho/MurielPinho/blob/main/Images/wave.gif" width="30px">
+# Hello, everyone! <img src="https://github.com/MurielPinho/MurielPinho/blob/main/Images/wave.gif" width="30px" height="30px">
 My name is Muriel Pinho and I'm a Software Developer with a focus on Web Dev. 
 
 ## 🤔 About Me
