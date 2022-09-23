@@ -41,7 +41,7 @@ My name is Muriel Pinho and I'm a Software Developer with a focus on Web Dev.
  <a href="https://linkedin.com/in/murielpinho"> 
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- <a href="https://murielpinho.github.io"> 
+ <a href="https://mpnh.dev"> 
   <img alt="Website" src="https://img.shields.io/badge/-My Portfolio-%23E0234E.svg?style=for-the-badge">
  </a>
 
