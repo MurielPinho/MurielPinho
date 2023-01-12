@@ -21,17 +21,6 @@ My name is Muriel Pinho and I'm a Software Developer with a focus on Web Dev.
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
  </p>
  
-## 📈 Github Stats
-
-<p align="center">
- <a href="https://github.com/MurielPinho"> 
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" >
- </a>
- <a href="https://github.com/MurielPinho"> 
-  <img alt="Contribution stats" src="https://github-readme-stats.vercel.app/api?username=murielpinho&show_icons=true&theme=dracula&include_all_commits=true&hide=contribs,stars&hide_border=true&custom_title=Contributions&count_private=true&line_height=30">
- </a>
-</p>
-
 ## 📫 Reach me on 
 
 <p align="center">
