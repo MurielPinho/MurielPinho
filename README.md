@@ -5,7 +5,7 @@ My name is Muriel Pinho and I'm a Software Developer with a focus on Web Dev.
 - 📍 I'm From São Paulo 🇧🇷 but have been living in Porto 🇵🇹 for 5 years. 
 - 🎓 BSc in Informatics and Computing Engineering at FEUP.
 - 🔭 I’m working on my portfolio/personal website
-- 📖 I'm reading [The Silmarillion by J.R.R. Tolkien](https://www.goodreads.com/book/show/7332.The_Silmarillion)
+- 📖 I'm reading [Dune Messiah by Frank Herbert](https://www.goodreads.com/book/show/44492285-dune-messiah)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Drink atleast 4 Liters of water everyday.
 
